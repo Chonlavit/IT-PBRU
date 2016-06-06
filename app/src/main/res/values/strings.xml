@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">IT PBRU</string>
+    <string name="btn_sign_in">Sing in</string>
+    <string name="btn_sign_up">Sing UP</string>
 </resources>
